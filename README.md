@@ -9,7 +9,7 @@ This project involves a detailed analysis of Fortune 1000 companies, focusing on
 
 This repository contains a Tableau dashboard to answer specific research questions mentioned in the next section, offering a comparative analysis across CEO genders, sectors, and years within the Fortune 1000 companies.
 
-<img width="900" alt="image" src="https://github.com/nmn-pandey/fortune-1000-companies-analysis/assets/20767834/931d5a2d-0099-4604-a912-7a4e5e4dbfdd">
+<img width="1000" alt="image" src="https://github.com/nmn-pandey/fortune-1000-companies-analysis/assets/20767834/931d5a2d-0099-4604-a912-7a4e5e4dbfdd">
 
 
 *Dashboard providing insights into gender diversity and financial performance of Fortune 1000 companies*
@@ -38,19 +38,22 @@ The dashboard contains 5 sheets:
 
 ### Screenshots 
 
-![Donut Chart]<img width="700" alt="image" src="https://github.com/nmn-pandey/fortune-1000-companies-analysis/assets/20767834/0f98473b-8e89-4dbe-bd1f-89c36c21ac6f">
+<img width="700" alt="image" src="https://github.com/nmn-pandey/fortune-1000-companies-analysis/assets/20767834/0f98473b-8e89-4dbe-bd1f-89c36c21ac6f">
+
 *Donut chart showing percentage of female CEOs by sector*
 
-![Map]<img width="700" alt="image" src="https://github.com/nmn-pandey/fortune-1000-companies-analysis/assets/20767834/4ecdc3e3-f693-4fe4-bd1c-4f434bf82266">
+<img width="700" alt="image" src="https://github.com/nmn-pandey/fortune-1000-companies-analysis/assets/20767834/4ecdc3e3-f693-4fe4-bd1c-4f434bf82266">
+
 *Map showing locations of companies colored by CEO gender*
 
-![Boxplot]<img width="700" alt="image" src="https://github.com/nmn-pandey/fortune-1000-companies-analysis/assets/20767834/5999a138-3fe4-4f08-b15c-e9c6328194fc">
+<img width="700" alt="image" src="https://github.com/nmn-pandey/fortune-1000-companies-analysis/assets/20767834/5999a138-3fe4-4f08-b15c-e9c6328194fc">
+
 *Boxplots comparing average revenue by CEO gender* 
 
-![Barchart]<img width="700" alt="image" src="https://github.com/nmn-pandey/fortune-1000-companies-analysis/assets/20767834/30745abe-f5c2-4711-b9df-cde851f1a171">
+<img width="700" alt="image" src="https://github.com/nmn-pandey/fortune-1000-companies-analysis/assets/20767834/30745abe-f5c2-4711-b9df-cde851f1a171">
 *Bar chart showing revenue trends over time by sector*
 
-![Wordcloud]<img width="700" alt="image" src="https://github.com/nmn-pandey/fortune-1000-companies-analysis/assets/20767834/91a5b387-f05a-40d1-bcf0-e43220e02506">
+<img width="700" alt="image" src="https://github.com/nmn-pandey/fortune-1000-companies-analysis/assets/20767834/91a5b387-f05a-40d1-bcf0-e43220e02506">
 *Word cloud showing top companies clustered by growth rates*
 
 
