@@ -10,8 +10,7 @@ Fortune, an American Business Magazine, publishes the Fortune 500 every year, wh
 
 This repository contains a Tableau dashboard analyzing Fortune 1000 companies data from 2019-2021.
 
-![Dashboard](images/dashboard.png)
-<img width="539" alt="image" src="https://github.com/nmn-pandey/fortune-1000-companies-analysis/assets/20767834/931d5a2d-0099-4604-a912-7a4e5e4dbfdd">
+<img width="900" alt="image" src="https://github.com/nmn-pandey/fortune-1000-companies-analysis/assets/20767834/931d5a2d-0099-4604-a912-7a4e5e4dbfdd">
 
 
 *Dashboard providing insights into gender diversity and financial performance of Fortune 1000 companies*
