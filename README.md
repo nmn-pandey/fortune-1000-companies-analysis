@@ -30,7 +30,7 @@ The dashboard answers research questions around:
 
 The dashboard contains 5 sheets:
 
-1. Donut chart showing sector-wise proportion of female leadership  <img width="397" alt="image" src="https://github.com/nmn-pandey/fortune-1000-companies-analysis/assets/20767834/540aabf9-0949-41c7-b01c-8b0a96c55fcd">
+1. Donut chart showing sector-wise proportion of female leadership
 2. Map showing companies' locations colored by CEO gender and sized by performance metric
 3. Boxplots comparing performance metrics by CEO gender 
 4. Bar charts showing performance trends of sectors over time
@@ -38,24 +38,19 @@ The dashboard contains 5 sheets:
 
 ### Screenshots 
 
-![Donut Chart](images/donut.png)
-
+![Donut Chart]<img width="700" alt="image" src="https://github.com/nmn-pandey/fortune-1000-companies-analysis/assets/20767834/0f98473b-8e89-4dbe-bd1f-89c36c21ac6f">
 *Donut chart showing percentage of female CEOs by sector*
 
-![Map](images/map.png)
-
+![Map]<img width="700" alt="image" src="https://github.com/nmn-pandey/fortune-1000-companies-analysis/assets/20767834/4ecdc3e3-f693-4fe4-bd1c-4f434bf82266">
 *Map showing locations of companies colored by CEO gender*
 
-![Boxplot](images/boxplot.png) 
-
+![Boxplot]<img width="700" alt="image" src="https://github.com/nmn-pandey/fortune-1000-companies-analysis/assets/20767834/5999a138-3fe4-4f08-b15c-e9c6328194fc">
 *Boxplots comparing average revenue by CEO gender* 
 
-![Barchart](images/barchart.png)
-
+![Barchart]<img width="700" alt="image" src="https://github.com/nmn-pandey/fortune-1000-companies-analysis/assets/20767834/30745abe-f5c2-4711-b9df-cde851f1a171">
 *Bar chart showing revenue trends over time by sector*
 
-![Wordcloud](images/wordcloud.png)
-
+![Wordcloud]<img width="700" alt="image" src="https://github.com/nmn-pandey/fortune-1000-companies-analysis/assets/20767834/91a5b387-f05a-40d1-bcf0-e43220e02506">
 *Word cloud showing top companies clustered by growth rates*
 
 
