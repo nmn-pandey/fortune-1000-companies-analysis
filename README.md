@@ -66,10 +66,10 @@ Key implementation details:
 
 - Parameter for selecting performance metric
 - Calculated field for dynamic performance metric  
-- Dual axis donut chart using table calc
-- Symbol map with background polygon layer    
+- Dual axis donut charts for gender representation
+- Symbol map with background data layer showing regional gender ratio
 - Boxplots with colors encoded by CEO gender
-- Bar charts with columns for sector and color encoded years   
+- Bar charts with columns for sector and color encoded years
 - Word cloud with clustering and tooltips
 
 ## Dashboard Walkthrough  
