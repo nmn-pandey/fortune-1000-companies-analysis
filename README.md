@@ -5,12 +5,11 @@ Fortune, an American Business Magazine, publishes the Fortune 500 every year, wh
 
 This project involves a detailed analysis of Fortune 1000 companies, focusing on the impact of CEO gender on company revenue and profits, as well as the distribution of male and female CEOs across various sectors. Utilizing a dataset that extends beyond the traditional Fortune 500, this analysis aims to uncover insights into gender diversity and financial performance among top-ranking companies.
 
-# Fortune 1000 Dashboard
+## Tableau Dashboard
 
 This repository contains a Tableau dashboard to answer specific research questions mentioned in the next section, offering a comparative analysis across CEO genders, sectors, and years within the Fortune 1000 companies.
 
 <img width="1000" alt="image" src="https://github.com/nmn-pandey/fortune-1000-companies-analysis/assets/20767834/931d5a2d-0099-4604-a912-7a4e5e4dbfdd">
-
 
 *Dashboard providing insights into gender diversity and financial performance of Fortune 1000 companies*
 
@@ -38,22 +37,24 @@ The dashboard contains 5 sheets:
 
 ### Screenshots 
 
-<img width="700" alt="image" src="https://github.com/nmn-pandey/fortune-1000-companies-analysis/assets/20767834/0f98473b-8e89-4dbe-bd1f-89c36c21ac6f">
+<img width="800" alt="image" src="https://github.com/nmn-pandey/fortune-1000-companies-analysis/assets/20767834/0f98473b-8e89-4dbe-bd1f-89c36c21ac6f">
 
 *Donut chart showing percentage of female CEOs by sector*
 
-<img width="700" alt="image" src="https://github.com/nmn-pandey/fortune-1000-companies-analysis/assets/20767834/4ecdc3e3-f693-4fe4-bd1c-4f434bf82266">
+<img width="800" alt="image" src="https://github.com/nmn-pandey/fortune-1000-companies-analysis/assets/20767834/4ecdc3e3-f693-4fe4-bd1c-4f434bf82266">
 
 *Map showing locations of companies colored by CEO gender*
 
-<img width="700" alt="image" src="https://github.com/nmn-pandey/fortune-1000-companies-analysis/assets/20767834/5999a138-3fe4-4f08-b15c-e9c6328194fc">
+<img width="800" alt="image" src="https://github.com/nmn-pandey/fortune-1000-companies-analysis/assets/20767834/5999a138-3fe4-4f08-b15c-e9c6328194fc">
 
 *Boxplots comparing average revenue by CEO gender* 
 
-<img width="700" alt="image" src="https://github.com/nmn-pandey/fortune-1000-companies-analysis/assets/20767834/30745abe-f5c2-4711-b9df-cde851f1a171">
+<img width="800" alt="image" src="https://github.com/nmn-pandey/fortune-1000-companies-analysis/assets/20767834/30745abe-f5c2-4711-b9df-cde851f1a171">
+
 *Bar chart showing revenue trends over time by sector*
 
-<img width="700" alt="image" src="https://github.com/nmn-pandey/fortune-1000-companies-analysis/assets/20767834/91a5b387-f05a-40d1-bcf0-e43220e02506">
+<img width="800" alt="image" src="https://github.com/nmn-pandey/fortune-1000-companies-analysis/assets/20767834/91a5b387-f05a-40d1-bcf0-e43220e02506">
+
 *Word cloud showing top companies clustered by growth rates*
 
 
@@ -94,5 +95,5 @@ This dashboard provides interactive visualization capabilities to gain insights 
 - Technology and retailing sectors have seen growth recently
 
 ## References
-- Data Source: Fortune 1000 Companies Dataset
+- Data Source: [Fortune 1000 Companies 2019-2021 Dataset](https://www.kaggle.com/datasets/nmnpandey/fortune-1000-2019-2021)
 - Visualization Tool: Tableau
