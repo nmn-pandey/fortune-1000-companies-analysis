@@ -1,14 +1,13 @@
-# fortune-1000-companies-analysis
-Analysis of Fortune 1000 companies, focusing on CEO gender's impact on performance. Includes Tableau visualizations and detailed insights derived from extensive data exploration and analysis.
-
 # Analysis of Fortune 1000 Companies
 
 ## Introduction
 Fortune, an American Business Magazine, publishes the Fortune 500 every year, which ranks the top 500 companies in terms of revenue. Instead of only the top 500, this dataset contains the whole Fortune 1000. This data can be used to answer questions about the gender distribution of CEOs, the financial performance of companies over time, and the industries that generate the most profit and revenue.
 
+This project involves a detailed analysis of Fortune 1000 companies, focusing on the impact of CEO gender on company revenue and profits, as well as the distribution of male and female CEOs across various sectors. Utilizing a dataset that extends beyond the traditional Fortune 500, this analysis aims to uncover insights into gender diversity and financial performance among top-ranking companies.
+
 # Fortune 1000 Dashboard
 
-This repository contains a Tableau dashboard analyzing Fortune 1000 companies data from 2019-2021.
+This repository contains a Tableau dashboard to answer specific research questions mentioned in the next section, offering a comparative analysis across CEO genders, sectors, and years within the Fortune 1000 companies.
 
 <img width="900" alt="image" src="https://github.com/nmn-pandey/fortune-1000-companies-analysis/assets/20767834/931d5a2d-0099-4604-a912-7a4e5e4dbfdd">
 
@@ -31,7 +30,7 @@ The dashboard answers research questions around:
 
 The dashboard contains 5 sheets:
 
-1. Donut chart showing sector-wise proportion of female leadership  
+1. Donut chart showing sector-wise proportion of female leadership  <img width="397" alt="image" src="https://github.com/nmn-pandey/fortune-1000-companies-analysis/assets/20767834/540aabf9-0949-41c7-b01c-8b0a96c55fcd">
 2. Map showing companies' locations colored by CEO gender and sized by performance metric
 3. Boxplots comparing performance metrics by CEO gender 
 4. Bar charts showing performance trends of sectors over time
