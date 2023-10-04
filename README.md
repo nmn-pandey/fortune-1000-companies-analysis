@@ -61,7 +61,30 @@ The dashboard contains 5 sheets:
 
 ## Implementation
 
-The dashboard uses parameters, filters, calculated fields, custom visualizations, and actions to enable interactive data exploration.
+The dashboard uses parameters, filters, calculated fields, custom visualizations, and actions to allow interactive data exploration. 
+
+Key implementation details:
+
+- Parameter for selecting performance metric
+- Calculated field for dynamic performance metric  
+- Dual axis donut chart using table calc
+- Symbol map with background polygon layer    
+- Boxplots with colors encoded by CEO gender
+- Bar charts with columns for sector and color encoded years   
+- Word cloud with clustering and tooltips
+
+## Dashboard Walkthrough  
+
+The dashboard can be used to:
+
+- Compare CEO gender distribution across sectors over time
+- Identify correlations between gender, location and financial performance  
+- Analyze performance trends of sectors from 2019-2021
+- Identify top companies and growth patterns   
+
+Users can filter by year, sector, CEO gender and select different performance metrics to interactively explore the data. Actions allow highlighting insights across different sheets.
+
+This dashboard provides interactive visualization capabilities to gain insights from the Fortune 1000 dataset.
 
 ## Summary of Insights
 
